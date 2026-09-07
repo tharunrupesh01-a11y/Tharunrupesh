@@ -10,7 +10,7 @@
 
 <br><br>
 
-<a href="https://github.com/Stharunrupesh">
+<a href="https://github.com/tharunrupesh01-a11y">
 <img src="https://img.shields.io/badge/GitHub-Stharunrupesh-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
